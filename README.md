@@ -42,17 +42,12 @@
 ?
 
 ## Risks
-ID
-Risk
-Mitigation
-1
+- Risk 1
+- Risk 2
 
 ## Dependencies
-ID
-Domain
-Dependency
-Mitigation
-1
+- Dependency 1
+- Dependency 2
 
 ## Solution Impacts
 ?
@@ -84,7 +79,6 @@ New Solution Design
   - Criteria 1
   - Criteria 2
 
-
 <!---
-
+   Comments
 --->
