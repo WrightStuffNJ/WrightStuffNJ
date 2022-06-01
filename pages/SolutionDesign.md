@@ -8,7 +8,11 @@
 ?
 
 ## Data Diagram
-?
+#### ERD
+![Goal Context diagram](/assets/images/DiversityCyberCouncil-ERD.jpeg)
+
+#### Graph Model
+![Goal Context diagram](/assets/images/DiversityCyberCouncil-GraphModel.jpeg)
 
 ## Data Analytics
 ?
