@@ -37,7 +37,7 @@ Nonprofit Networking Hub & Diverse Candidate Career Case Management Tool
 
 ## Solution Context
 ### Goal Context
-![An old rock in the desert](https://lucid.app/publicSegments/view/9d93ad42-28ee-48dd-9e0a-80da48024323/image.jpeg)
+![Goal Context diagram](/assets/images/DiversityCyberCouncil-ContextDiagram.jpeg)
 
 ### High-Level Solution
 ?
