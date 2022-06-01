@@ -2,7 +2,7 @@
 
 ## Business Vision
 ### Basic Information
-Diversity Cyber Council is a 501c3 Non-Profit that serves under-represented demographics in the tech industry by facilitating education, training, and staffing opportunities to establish a sustainable and diverse talent pipeline to the workforce. Our vision is to enhance inclusion and representation in the tech industry through training, mentoring, networking, and visibility programs.
+Diversity Cyber Council is a 501c3 Non-Profit Organization (NPO) that serves under-represented demographics in the tech industry by facilitating education, training, and staffing opportunities to establish a sustainable and diverse talent pipeline to the workforce. Our vision is to enhance inclusion and representation in the tech industry through training, mentoring, networking, and visibility programs.
 
 ### Business Goal
 Our goal is to establish a sustainable and diverse talent pipeline that extends career equity to underrepresented demographics by providing access to competent training programs that lead to direct employment opportunities.
@@ -36,11 +36,8 @@ Nonprofit Networking Hub & Diverse Candidate Career Case Management Tool
 ?
 
 ## Solution Context
-### Current Context
-?
-
 ### Goal Context
-?
+![An old rock in the desert](https://lucid.app/publicSegments/view/9d93ad42-28ee-48dd-9e0a-80da48024323/image.jpeg)
 
 ### High-Level Solution
 ?
@@ -53,11 +50,8 @@ Nonprofit Networking Hub & Diverse Candidate Career Case Management Tool
 - Risk 2
 
 ## Dependencies
-- Dependency 1
-- Dependency 2
-
-## Solution Impacts
-?
+- External 3rd party NPOs will need functional website and/or customer service phone line
+- Candidates will need access to a web enabled device
 
 ## Data Analytics
 ?
@@ -69,7 +63,8 @@ New Solution Design
 ?
 
 ### Assumptions
-?
+Community Leader will be an NPO, assigned by an Admin... in agreement with the NPO
+Mentorship will be an offering from an NPO
 
 ### Functional Requirements
 - Acceptance Criteria
