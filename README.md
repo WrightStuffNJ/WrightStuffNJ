@@ -46,8 +46,7 @@ Nonprofit Networking Hub & Diverse Candidate Career Case Management Tool
 ?
 
 ## Risks
-- Risk 1
-- Risk 2
+- Lack of adoption by Nonprofit providers.
 
 ## Dependencies
 - External 3rd party NPOs will need functional website and/or customer service phone line
@@ -91,7 +90,7 @@ Mentorship will be an offering from an NPO
 
 ### Security Requirements
 - Acceptance Criteria
-  - Criteria 1
+  - Strong password requirements for web access
   - Criteria 2
 
 <!---
