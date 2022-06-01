@@ -5,14 +5,18 @@
 ?
 
 ## Component Diagram
-?
+#### Site Map
+![Site Map diagram](/assets/images/DiversityCyberCouncil-SiteMap.jpeg)
+
+#### IVR Map
+![IVR Map diagram](/assets/images/DiversityCyberCouncil-IVRMap.jpeg)
 
 ## Data Diagram
 #### ERD
-![Goal Context diagram](/assets/images/DiversityCyberCouncil-ERD.jpeg)
+![Entity Relationship diagram](/assets/images/DiversityCyberCouncil-ERD.jpeg)
 
 #### Graph Model
-![Goal Context diagram](/assets/images/DiversityCyberCouncil-GraphModel.jpeg)
+![Graph data model diagram](/assets/images/DiversityCyberCouncil-GraphModel.jpeg)
 
 ## Data Analytics
 ?
