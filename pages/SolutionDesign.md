@@ -5,6 +5,9 @@
 ?
 
 ## Component Diagram
+#### Wireframe
+![Wireframe diagram](/assets/images/DiversityCyberCouncil-Wireframes.jpeg)
+
 #### Site Map
 ![Site Map diagram](/assets/images/DiversityCyberCouncil-SiteMap.jpeg)
 
