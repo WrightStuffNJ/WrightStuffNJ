@@ -37,10 +37,10 @@ Nonprofit Networking Hub & Diverse Candidate Career Case Management Tool
 
 ## Solution Context
 ### Goal Context
-![Goal Context diagram](/assets/images/DiversityCyberCouncil-ContextDiagram.jpeg)
+?
 
 ### High-Level Solution
-?
+![Goal Context diagram](/assets/images/DiversityCyberCouncil-HighLevelSolutiondiagram.jpeg)
 
 ## Key Performance Indicators
 ?
