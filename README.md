@@ -56,7 +56,7 @@ Nonprofit Networking Hub & Diverse Candidate Career Case Management Tool
 ?
 
 ## Solution Design
-[Spotlight Platform] (./SolutionDesign.md)
+Spotlight Platform [Spotlight Platform] (/SolutionDesign.md)
 
 ## Acceptance Criteria
 ?
