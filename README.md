@@ -1,4 +1,5 @@
 # Solution Intent - Diversity Cyber Council
+A **Solution Intent** is the repository for storing, managing, and communicating the knowledge of current and intended solution behavior. In short, the Solution Intent should describe *what* we wish to build.
 
 ## Business Vision
 ### Basic Information
@@ -69,6 +70,7 @@ Data analytics will be used to enhance the system value for participants in a nu
     - Which candidates have had the most engagement
 
 ## Solution Design
+While this **Solution Intent** is designed to show *what* we intend to build, the **Solution Design** will show the details on *how* we will build it. 
 Spotlight Platform [Spotlight Platform](/pages/SolutionDesign.md)
 
 ## Acceptance Criteria
