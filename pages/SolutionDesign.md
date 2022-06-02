@@ -5,21 +5,22 @@
 ?
 
 ## Component Diagram
-#### Wireframe
-![Wireframe diagram](/assets/images/DiversityCyberCouncil-Wireframes.jpeg)
-
 #### Site Map
 ![Site Map diagram](/assets/images/DiversityCyberCouncil-SiteMap.jpeg)
+
+#### Wireframes
+![Wireframe diagram](/assets/images/DiversityCyberCouncil-Wireframes.jpeg)
 
 #### IVR Map
 ![IVR Map diagram](/assets/images/DiversityCyberCouncil-IVRMap.jpeg)
 
-## Data Diagram
-#### ERD
-![Entity Relationship diagram](/assets/images/DiversityCyberCouncil-ERD.jpeg)
+## Workflow Diagram
+![Workflow diagram](/assets/images/DiversityCyberCouncil-WorkflowDiagram.jpeg)
 
+## Data Diagram
 #### Graph Model
 ![Graph data model diagram](/assets/images/DiversityCyberCouncil-GraphModel.jpeg)
+
 
 ## Data Analytics
 ?
@@ -32,3 +33,4 @@
 
 ## Deployment Guide
 ?
+
