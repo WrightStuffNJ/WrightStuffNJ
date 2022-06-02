@@ -11,7 +11,7 @@ Our goal is to establish a sustainable and diverse talent pipeline that extends 
 The Spotlight App Project is a sustained effort to amass a coalition of nonprofits in order to address specific needs within the communities we serve by leveraging a centralized platform as the base of operations to collaborate and make a collective impact.
 
 ### Tagline: Illuminate Possibilities
-The Divercity Cyber Council system is designed around illuminating possiblities. Candidates can see what's possible by browsing or searching offerings. Providers can see what other providers offer. Administrators have a wealth of reports available, providing them insight into what providers and offerings are getting the most use and what areas are underserved. Additionaly the system will show recommended offerings to candidates based on their location or past searches and selections. Non-profits will receive insight into what offerings are hot and spotlight users. Administrators can see which offerings are often taken together, assisting them in creating roadmaps. All of which contributes to illuminating possiblities, not just for candidates but for non-profits as well.
+The Divercity Cyber Council system is designed around illuminating possiblities. Candidates can see what's possible by browsing or searching offerings. Providers can see what other providers offer. Administrators have a wealth of reports available, providing them insight into what providers and offerings are getting the most use and what areas are underserved. Additionaly the system will show recommended offerings to candidates based on their location or past searches and engagement. Non-profits will receive insight into what offerings are hot and spotlight users. Administrators can see which offerings are often taken together, assisting them in creating roadmaps. All of which contributes to illuminating possiblities, not just for candidates but for non-profits as well.
 
 ### Problem Statement
 1. The decentralization and lack of support between nonprofits create gaps of service and overall impact.
@@ -53,7 +53,18 @@ Nonprofit Networking Hub & Diverse Candidate Career Case Management Tool
 - External 3rd party NPOs will need functional website and/or customer service phone line
 
 ## Data Analytics
-?
+Data analytics will be used to enhance the system value for participants in a number of ways, inclding:
+  - Administrators
+    - Which offerings are most used
+    - Which geographical areas are underserved
+    - Which offerings are often taken together, suggesting a potential roadmap
+  - Candidates
+    - Recommend offerings based on past engagement and searches
+    - Recommend 'hot' offerings in their location
+  - Non-Profits
+    - Which offerings are most used
+    - Which offerings are least used
+    - Which candidates have had the most engagement
 
 ## Solution Design
 Spotlight Platform [Spotlight Platform](/pages/SolutionDesign.md)
@@ -84,14 +95,14 @@ Mentorship will be an offering from an NPO
   - Analytical reports (for use by Admins)
 
 ### Non-Functional Requirements
-- Acceptance Criteria
-  - Criteria 1
-  - Criteria 2
-
-### Security Requirements
-- Acceptance Criteria
-  - Strong password requirements for web access
-  - Criteria 2
+- Usability
+  - The system must support users with no access to a smart phone or computer
+  - All web pages must meet Web Content Accessibility Guidelines WCAG 2.1
+- Security
+  - All external communications between the system and clients must be encrypted 
+  - Only strong passwords will be allowed
+- Perfomance
+  - Pages must load within 2 seconds
 
 <!---
    Comments
