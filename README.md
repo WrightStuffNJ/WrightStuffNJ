@@ -103,7 +103,7 @@ Mentorship will be an offering from an NPO
   - Only strong passwords will be allowed
 - Perfomance
   - Pages must load within 2 seconds
-
+  - System must match capacity with demand elastically
 <!---
    Comments
 --->
