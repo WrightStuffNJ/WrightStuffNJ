@@ -71,7 +71,7 @@ Data analytics will be used to enhance the system value for participants in a nu
 
 ## Solution Design
 While this **Solution Intent** is designed to show *what* we intend to build, the **Solution Design** will show the details on *how* we will build it. 
-Spotlight Platform [Spotlight Platform](/pages/SolutionDesign.md)
+Click on the following link to view the Solution Design for the [Spotlight Platform](/pages/SolutionDesign.md)
 
 ## Acceptance Criteria
 ?
