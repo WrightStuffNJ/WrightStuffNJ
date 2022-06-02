@@ -56,22 +56,11 @@ The system is designed at a high level to be built on cloud services. This reduc
 - External 3rd party NPOs will need functional website and/or customer service phone line
 
 ## Data Analytics
-Data analytics will be used to enhance the system value for participants in a number of ways, inclding:
-  - Administrators
-    - Which offerings are most used
-    - Which geographical areas are underserved
-    - Which offerings are often taken together, suggesting a potential roadmap
-  - Candidates
-    - Recommend offerings based on past engagement and searches
-    - Recommend 'hot' offerings in their location
-  - Non-Profits
-    - Which offerings are most used
-    - Which offerings are least used
-    - Which candidates have had the most engagement
+Data analytics will be used to enhance the system value for administrators, candidates, and  Non-Profits. This includes highlighting popular programs, providers and users. See the [Solution Design](/pages/SolutionDesign.md) for more details.
 
 ## Solution Design
 While this **Solution Intent** is designed to show *what* we intend to build, the **Solution Design** will show the details on *how* we will build it. 
-Click on the following link to view the Solution Design for the [Spotlight Platform](/pages/SolutionDesign.md)
+Click on the following link to view the [Solution Design](/pages/SolutionDesign.md)
 
 ## Acceptance Criteria
 ?
