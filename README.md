@@ -10,7 +10,8 @@ Our goal is to establish a sustainable and diverse talent pipeline that extends 
 ### Program Description - Spotlight App/Platform
 The Spotlight App Project is a sustained effort to amass a coalition of nonprofits in order to address specific needs within the communities we serve by leveraging a centralized platform as the base of operations to collaborate and make a collective impact.
 
-### Tagline: Illuminate Possibilities.
+### Tagline: Illuminate Possibilities
+The Divercity Cyber Council system is designed around illuminating possiblities. Candidates can see what's possible by browsing or searching offerings. Providers can see what other providers offer. Administrators have a wealth of reports available, providing them insight into what providers and offerings are getting the most use and what areas are underserved. Additionaly the system will show recommended offerings to candidates based on their location or past searches and selections. Non-profits will receive insight into what offerings are hot and spotlight users. Administrators can see which offerings are often taken together, assisting them in creating roadmaps. All of which contributes to illuminating possiblities, not just for candidates but for non-profits as well.
 
 ### Problem Statement
 1. The decentralization and lack of support between nonprofits create gaps of service and overall impact.
