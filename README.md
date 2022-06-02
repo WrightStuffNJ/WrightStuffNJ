@@ -51,7 +51,6 @@ Nonprofit Networking Hub & Diverse Candidate Career Case Management Tool
 
 ## Dependencies
 - External 3rd party NPOs will need functional website and/or customer service phone line
-- Candidates will need access to a web enabled device
 
 ## Data Analytics
 ?
