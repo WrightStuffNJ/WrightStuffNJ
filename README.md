@@ -63,8 +63,6 @@ While this **Solution Intent** is designed to show *what* we intend to build, th
 Click on the following link to view the [Solution Design](/pages/SolutionDesign.md)
 
 ## Acceptance Criteria
-?
-
 ### Assumptions
 Community Leader will be an NPO, assigned by an Admin... in agreement with the NPO
 Mentorship will be an offering from an NPO
