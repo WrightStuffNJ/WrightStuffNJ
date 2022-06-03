@@ -70,6 +70,15 @@ Click on the following link to view the [Solution Design](/pages/SolutionDesign.
 Community Leader will be an NPO, assigned by an Admin... in agreement with the NPO
 Mentorship will be an offering from an NPO
 
+### Architectural Decisions
+The following documents outline the architectural decisions made on this project:
+[ADR0001](/ADRs/ADR0001.txt)
+[ADR0002](/ADRs/ADR0002.txt)
+[ADR0003](/ADRs/ADR0004.txt)
+[ADR0004](/ADRs/ADR0004.txt)
+[ADR0005](/ADRs/ADR0005.txt)
+
+
 ### Functional Requirements
 - Acceptance Criteria
   - Establish a way to incentivize engagement such as sharing of resources, collaboration, networking, facilitating introductions, and partnerships
