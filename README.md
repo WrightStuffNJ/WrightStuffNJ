@@ -23,19 +23,17 @@ Nonprofit Networking Hub & Diverse Candidate Career Case Management Tool
 
 ## Scope
 ### In Scope
-?
-
+  - A solution that allows Non-Profits to register and provide offerings to candidates
+  - A solution that allows candidates to register, find and use non-profit offerings
+  - A solution that provides reports and metrics to administrators
+  - A solution that encourages candidate engagement via roadmaps and suggested offerings
+  - A solution that encourages Non-Profit engagement by highlighting popular offerings and spotlighting providers 
+  
 ### Out of Scope
-?
-
-### Minimum Viable Product
-?
-
-### Additional Features
-?
-
-## Specifications
-?
+The following functionality is not in scope for this effort:
+  - Directly registering candidates for non-profit offerings (candidate will be directed to non-profit for this)
+  - Providing a communications platform to allow system users to message each other
+  - Directly hosting active content - only static, text and PDF based content is supported
 
 ## Solution Context
 ### Goal Context
@@ -47,7 +45,12 @@ The system is designed at a high level to be built on cloud services. This reduc
 ![High-Level Solution Diagram](/assets/images/DiversityCyberCouncil-HighLevelSolutiondiagram.jpeg)
 
 ## Key Performance Indicators
-?
+The following data points will be used to track the success of the system:
+  - Non-Profit adoption rate
+  - Non-Profit number of offerings made available
+  - Candidate adoption rate
+  - Candidate number of offerings taken advantage of
+  - Number of candidate searches that lead to offering use
 
 ## Risks
 - Lack of adoption by Nonprofit providers.
