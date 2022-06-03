@@ -5,6 +5,10 @@
 ?
 
 ## Component Diagram
+The following diagram illustrates the solution at a component level.
+![Site Map diagram](/assets/images/DiversityCyberCouncil-ComponentDiagram.jpeg)
+
+## User Interface Diagrams
 #### Site Map
 The following diagram illustrates the flow through web pages as users exercise the site.
 ![Site Map diagram](/assets/images/DiversityCyberCouncil-SiteMap.jpeg)
