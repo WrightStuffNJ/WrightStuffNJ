@@ -42,7 +42,7 @@ The Spotlight system is designed to support three types of users; Candidates, No
 
 ### High-Level Solution
 The system is designed at a high level to be built on cloud services. This reduces inital cost and reduces the maintenance effort while increasing the ability to handle peak demand. Behind the scenes microserices (called a Back End for Front End) and a workflow engine handle most of the work while a graph database handles persistent storage. 
-![High-Level Solution Diagram](/assets/images/DiversityCyberCouncil-HighLevelSolutiondiagram.jpeg)
+Click on the following link to view the [Solution Design](/pages/SolutionDesign.md)
 
 ## Key Performance Indicators
 The following data points will be used to track the success of the system:
