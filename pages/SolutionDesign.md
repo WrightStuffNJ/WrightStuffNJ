@@ -47,7 +47,34 @@ The following diagram shows the operational flow between components.
 ![Graph data model diagram](/assets/images/DiversityCyberCouncil-SequenceDiagrams.jpeg)
 
 ## Test Plan
-?
+### Purpose
+This section describes the plan for testing the Spotlight system. It will:
+  - Identify the test requirments at a high level
+  - Describe the test strategies to be used
+  - List the resources required
+  - Detail the deliverables for the test phase
+### Test Requirements
+  - Verify the functional requirements are met
+  - Verify database functionality
+  - Verify the user interfaces
+  - Verify performance and scaling
+  - Verify security and access control
+### Test Strategy
+  - Execute each use case, workflow, and function 
+  - Execute database queries to exercise each domain element with valid and invalid data, verifying end state
+  - Exercise each UI element, verifying they perform properly while meeting the requirements
+  - Validate system performance under minimal and increasing load, verifying the system scales appropriately
+  - Validate that access security meets specifications, and that each user role is appropriately represented
+### Test Resources
+   - Test Manager: Provides oversight, direction and reporting
+   - Test Designer: Creates test plan and implements test cases
+   - System Tester: executes the tests
+### Test Deliverablers
+  - Test Plan
+  - Test Suite
+  - Test Data Sets
+  - Test Scripts
+  - Test Results and Evaluation
 
 ## Deployment Guide
 ?
