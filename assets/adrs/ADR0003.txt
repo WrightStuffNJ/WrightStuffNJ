@@ -1,0 +1,13 @@
+Date: 6/1/22
+
+Title: Workflow
+
+Status: accepted
+
+Context: Solution will utilize workflow
+
+Decision: Approve
+
+Consequences: Reduced code complexity
+Increased infrastructure requirements
+

@@ -1,0 +1,14 @@
+Date: 5/27/22
+
+Title: IVR Support
+
+Status: accepted
+
+Context: Some of the candidates may not have access to a computer or smartphone
+
+Decision: Approve
+
+Consequences: Additional development required
+Additional infrastructure required
+Expanded reach to candidates
+
