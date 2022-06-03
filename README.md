@@ -77,6 +77,7 @@ The following documents outline the architectural decisions made on this project
 [ADR0003](/assets/ADRs/ADR0004.txt)
 [ADR0004](/assets/ADRs/ADR0004.txt)
 [ADR0005](/assets/ADRs/ADR0005.txt)
+[ADR0006](/assets/ADRs/ADR0006.txt)
 
 
 ### Functional Requirements
