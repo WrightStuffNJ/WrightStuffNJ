@@ -1,5 +1,6 @@
 # Solution Design - Spotlight Platform
 #### Created by WrightStuffNJ
+A **Solution Design** is the repository for storing, managing, and communicating the knowledge of the intended solution's makeup in detail. In short, the Solution Design should describe *how* we will build the solution.
 
 ## Goal Design
 The following diagram details the solution design:
