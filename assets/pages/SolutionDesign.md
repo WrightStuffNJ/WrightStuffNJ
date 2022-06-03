@@ -2,7 +2,8 @@
 #### Created by WrightStuffNJ
 
 ## Goal Design
-?
+The following diagram details the solution design:
+![Solution Diagram](/assets/images/DiversityCyberCouncil-HighLevelSolutiondiagram.jpeg)
 
 ## Component Diagram
 The following diagram illustrates the solution at a component level.
@@ -79,7 +80,4 @@ This section describes the plan for testing the Spotlight system. It will:
   - Test Data Sets
   - Test Scripts
   - Test Results and Evaluation
-
-## Deployment Guide
-?
 
