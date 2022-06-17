@@ -117,7 +117,7 @@ The following documents outline the architectural decisions made on this project
   - System must match capacity with demand elastically
     * **Source:** Company standards *
   
-### Architectual Charactoristics
+### Architectual Characteristics
 The following chart details the architectural charactorists matched against the architectural styles under consideration:
 <figure>
   <img src="/assets/images/DiversityCyberCouncil-ArchitecturalCharactoristics.jpeg" width="700">
