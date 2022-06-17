@@ -3,7 +3,7 @@ A **Solution Intent** is the repository for storing, managing, and communicating
 
 ## The Wright Stuff Team
 
-<table>
+<table style="border-collapse: collapse; border: none;">
   <tr>
     <td>
 The *Wright Stuff* team consists of:
