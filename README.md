@@ -3,6 +3,9 @@ A **Solution Intent** is the repository for storing, managing, and communicating
 
 ## The Wright Stuff Team
 
+<table>
+  <tr>
+    <td>
 The *Wright Stuff* team consists of:
   - Umesh Vaswani
   - Douglas Hansknecht
@@ -11,12 +14,15 @@ The *Wright Stuff* team consists of:
   - Deep Shah
 
 We are architects at NetJets, supporting the systems that keep our jets flying around the world.  
-
+    </td>
+    <td align="right">
 <figure>
   <img src="/assets/images/DiversityCyberCouncil-Wright.jpg">
   <figcaption>Context Diagram</figcaption>
 </figure>
-
+    </td>
+  </tr>
+</table>
 ## Business Vision
 ### Basic Information
 Diversity Cyber Council is a 501c3 Non-Profit Organization (NPO) that serves under-represented demographics in the tech industry by facilitating education, training, and staffing opportunities to establish a sustainable and diverse talent pipeline to the workforce. Our vision is to enhance inclusion and representation in the tech industry through training, mentoring, networking, and visibility programs.
