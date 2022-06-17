@@ -39,8 +39,8 @@ Nonprofit Networking Hub & Diverse Candidate Career Case Management Tool
   - A solution that allows candidates to register, find and use non-profit offerings
   - A solution that provides reports and metrics to administrators
   - A solution that encourages candidate engagement via roadmaps and suggested offerings
-  - A solution that encourages Non-Profit engagement by highlighting popular offerings and spotlighting providers 
-  
+  - A solution that encourages Non-Profit engagement by highlighting popular offerings and spotlighting providers
+
 ### Out of Scope
 The following functionality is not in scope for this effort:
   - Directly registering candidates for non-profit offerings (candidate will be directed to non-profit for this)
@@ -54,9 +54,9 @@ The Spotlight system is designed to support three types of users; Candidates, No
   <img src="/assets/images/DiversityCyberCouncil-ContextDiagram.jpeg" width="500">
   <figcaption>Context Diagram</figcaption>
 </figure>
-  
+
 ### High-Level Solution
-The system is designed at a high level to be built on cloud services. This reduces inital cost and reduces the maintenance effort while increasing the ability to handle peak demand. Behind the scenes microserices (called a Back End for Front End) and a workflow engine handle most of the work while a graph database handles persistent storage. 
+The system is designed at a high level to be built on cloud services. This reduces inital cost and reduces the maintenance effort while increasing the ability to handle peak demand. Behind the scenes microserices (called a Back End for Front End) and a workflow engine handle most of the work while a graph database handles persistent storage.
 Click on the following link to view the [Solution Design](/assets/pages/SolutionDesign.md)
 
 ## Key Performance Indicators
@@ -77,7 +77,7 @@ The following data points will be used to track the success of the system:
 Data analytics will be used to enhance the system value for administrators, candidates, and  Non-Profits. This includes highlighting popular programs, providers and users. See the [Solution Design](/assets/pages/SolutionDesign.md) for more details.
 
 ## Solution Design
-While this **Solution Intent** is designed to show *what* we intend to build, the **Solution Design** will show the details on *how* we will build it. 
+While this **Solution Intent** is designed to show *what* we intend to build, the **Solution Design** will show the details on *how* we will build it.
 Click on the following link to view the [Solution Design](/assets/pages/SolutionDesign.md)
 
 ## Acceptance Criteria
@@ -87,12 +87,12 @@ Mentorship will be an offering from an NPO
 
 ### Architectural Decisions
 The following documents outline the architectural decisions made on this project:<BR>
-[ADR0001](/assets/adrs/ADR0001.md)<BR>
-[ADR0002](/assets/adrs/ADR0002.md)<BR>
-[ADR0003](/assets/adrs/ADR0004.md)<BR>
-[ADR0004](/assets/adrs/ADR0004.md)<BR>
-[ADR0005](/assets/adrs/ADR0005.md)<BR>
-[ADR0006](/assets/adrs/ADR0006.md)<BR>
+[ADR0001 - IVR Support](/assets/adrs/ADR0001.md)<BR>
+[ADR0002 - Overall platform](/assets/adrs/ADR0002.md)<BR>
+[ADR0003 - Platform Analytics](/assets/adrs/ADR0004.md)<BR>
+[ADR0004 - System Workflow](/assets/adrs/ADR0004.md)<BR>
+[ADR0005 - Persistent Data Store](/assets/adrs/ADR0005.md)<BR>
+[ADR0006 - MicroServices Architecture](/assets/adrs/ADR0006.md)<BR>
 
 ### Functional Requirements
 - Acceptance Criteria
@@ -119,7 +119,7 @@ The following documents outline the architectural decisions made on this project
   - All web pages must meet Web Content Accessibility Guidelines WCAG 2.1
     * **Source:** Company standards *
 - Security
-  - All external communications between the system and clients must be encrypted 
+  - All external communications between the system and clients must be encrypted
     * **Source:** Company standards *
   - Only strong passwords will be allowed
     * **Source:** Company standards *
@@ -128,7 +128,7 @@ The following documents outline the architectural decisions made on this project
     * **Source:** Company standards *
   - System must match capacity with demand elastically
     * **Source:** Company standards *
-  
+
 ### Architectual Characteristics
 The following chart details the architectural charactorists matched against the architectural styles under consideration:
 <figure>
