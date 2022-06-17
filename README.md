@@ -38,8 +38,11 @@ The following functionality is not in scope for this effort:
 ## Solution Context
 ### Goal Context
 The Spotlight system is designed to support three types of users; Candidates, Non-Profit Providers, and Administrators. Administrators and Non-Profit users will access the system via web pages, either mobile or desktop. Candidates can access the system via web pages as well. Additionally candidates without access to a browser can use a regular phone to call the Interactive Voice Response (IVR) system. It will allow them to retrieve lists of providers or offerings and to get contact information. The system has the ability to contact any user by email, or candidates via SMS.<BR>
-<img src="/assets/images/DiversityCyberCouncil-ContextDiagram.jpeg" width="500">
-
+<figure>
+  <img src="/assets/images/DiversityCyberCouncil-ContextDiagram.jpeg" width="500">
+  <figcaption>Context Diagram</figcaption>
+</figure>
+  
 ### High-Level Solution
 The system is designed at a high level to be built on cloud services. This reduces inital cost and reduces the maintenance effort while increasing the ability to handle peak demand. Behind the scenes microserices (called a Back End for Front End) and a workflow engine handle most of the work while a graph database handles persistent storage. 
 Click on the following link to view the [Solution Design](/assets/pages/SolutionDesign.md)
@@ -100,13 +103,27 @@ The following documents outline the architectural decisions made on this project
 ### Non-Functional Requirements
 - Usability
   - The system must support users with no access to a smart phone or computer
+    * **Source:** Analysis of non-profit benefit recipient demographics *
   - All web pages must meet Web Content Accessibility Guidelines WCAG 2.1
+    * **Source:** Company standards *
 - Security
   - All external communications between the system and clients must be encrypted 
+    * **Source:** Company standards *
   - Only strong passwords will be allowed
+    * **Source:** Company standards *
 - Perfomance
   - Pages must load within 2 seconds
+    * **Source:** Company standards *
   - System must match capacity with demand elastically
+    * **Source:** Company standards *
+  
+### Architectual Charactoristics
+The following chart details the architectural charactorists matched against the architectural styles under consideration:
+<figure>
+  <img src="/assets/images/DiversityCyberCouncil-ArchitecturalCharactoristics.jpeg" width="700">
+  <figcaption>Context Diagram</figcaption>
+</figure>
+
 <!---
    Comments
 --->
