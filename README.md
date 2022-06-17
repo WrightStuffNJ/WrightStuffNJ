@@ -121,7 +121,7 @@ The following documents outline the architectural decisions made on this project
 The following chart details the architectural charactorists matched against the architectural styles under consideration:
 <figure>
   <img src="/assets/images/DiversityCyberCouncil-ArchitecturalCharactoristics.jpeg" width="700">
-  <figcaption>Context Diagram</figcaption>
+  <figcaption>Architectural Charactoristics Diagram</figcaption>
 </figure>
 
 <!---
