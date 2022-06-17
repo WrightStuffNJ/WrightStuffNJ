@@ -3,15 +3,7 @@ A **Solution Intent** is the repository for storing, managing, and communicating
 
 ## The Wright Stuff Team
 
-The *Wright Stuff* team consists of:
-  - Umesh Vaswani
-  - Douglas Hansknecht
-  - Scott Norfolk
-  - Seth Westfall
-  - Deep Shah
-
-We are architects at NetJets, supporting the systems that keep our jets flying around the world.  
-<img src="/assets/images/DiversityCyberCouncil-Wright.jpg">
+<img src="/assets/images/DiversityCyberCouncil-The Team.jpg"
 
 ## Business Vision
 ### Basic Information
