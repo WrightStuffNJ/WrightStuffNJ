@@ -1,7 +1,6 @@
 # Solution Intent - Diversity Cyber Council
 A **Solution Intent** is the repository for storing, managing, and communicating the knowledge of current and intended solution behavior. In short, the Solution Intent should describe *what* we wish to build.
 
-## The Wright Stuff Team
 <img src="/assets/images/DiversityCyberCouncil-The Team.jpg">
 
 ## Business Vision
