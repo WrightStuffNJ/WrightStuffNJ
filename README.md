@@ -31,7 +31,10 @@ The Divercity Cyber Council system is designed around illuminating possiblities.
 2. The lack of visibility of nonprofit groups and offerings creates a barrier of access to the people we aim to serve.
 
 ### Technology Solution Description
-Nonprofit Networking Hub & Diverse Candidate Career Case Management Tool
+*Nonprofit Networking Hub & Diverse Candidate Career Case Management Tool*
+
+The Spotlight Platform is a service and workflow-based solution designed to be deployable either on a cloud vendor or locally; the team recommends using a cloud vendor such as Amazon to reduce initial costs while speeding time to delivery.
+The solution supports multiple access methods, whether via voice or text, or through a mobile or desktop browser. The system utilizes a workflow engine to manage the onboarding processes which is supported by micro services as well as a graph database.
 
 ## Scope
 ### In Scope
