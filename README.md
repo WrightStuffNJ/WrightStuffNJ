@@ -85,7 +85,7 @@ Click on the following link to view the [Solution Design](/assets/pages/Solution
 Community Leader will be an NPO, assigned by an Admin... in agreement with the NPO
 Mentorship will be an offering from an NPO
 
-### Architectural Decisions
+### Architectural Decision Records
 The following documents outline the architectural decisions made on this project:<BR>
 [ADR0001 - IVR Support](/assets/adrs/ADR0001.md)<BR>
 [ADR0002 - Overall platform](/assets/adrs/ADR0002.md)<BR>
