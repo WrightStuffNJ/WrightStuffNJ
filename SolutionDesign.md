@@ -25,7 +25,7 @@ The following diagram shows the flow through menus for users connecting to the i
 
 ## Workflow Diagrams
 The following diagrams show the workflow used when candidate and non-profit users register with the system. Note that these workflows are triggered by events raised by the Graph Db.
-![Workflow diagram](/assets/images/DiversityCyberCouncil-WorkflowDiagram.jpeg)
+![Workflow diagram](/assets/images/DiversityCyberCouncil-WorkflowDiagram.png)
 
 ## Data Diagram - Graph Model
 The following diagram shows the nodes and connections that make up the Graph Db.
