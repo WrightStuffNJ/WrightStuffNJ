@@ -37,7 +37,7 @@ The following functionality is not in scope for this effort:
 
 ## Solution Context
 ### Goal Context
-The Spotlight system is designed to support three types of users; Candidates, Non-Profit Providers, and Administrators. Administrators and Non-Profit users will access the system via web pages, either mobile or desktop. Candidates can access the system via web pages as well. Additionally candidates without access to a browser can use a regular phone to call the Interactive Voice Response (IVR) system. It will allow them to retrieve lists of providers or offerings and to get contact information. The system has the ability to contact any user by email, or candidates via SMS.
+The Spotlight system is designed to support three types of users; Candidates, Non-Profit Providers, and Administrators. Administrators and Non-Profit users will access the system via web pages, either mobile or desktop. Candidates can access the system via web pages as well. Additionally candidates without access to a browser can use a regular phone to call the Interactive Voice Response (IVR) system. It will allow them to retrieve lists of providers or offerings and to get contact information. The system has the ability to contact any user by email, or candidates via SMS.<BR>
 <img src="/assets/images/DiversityCyberCouncil-ContextDiagram.jpeg" width="500">
 
 ### High-Level Solution
@@ -71,14 +71,13 @@ Community Leader will be an NPO, assigned by an Admin... in agreement with the N
 Mentorship will be an offering from an NPO
 
 ### Architectural Decisions
-The following documents outline the architectural decisions made on this project:
-[ADR0001](/assets/adrs/ADR0001.txt)
-[ADR0002](/assets/adrs/ADR0002.txt)
-[ADR0003](/assets/adrs/ADR0004.txt)
-[ADR0004](/assets/adrs/ADR0004.txt)
-[ADR0005](/assets/adrs/ADR0005.txt)
-[ADR0006](/assets/adrs/ADR0006.txt)
-
+The following documents outline the architectural decisions made on this project:<BR>
+[ADR0001](/assets/adrs/ADR0001.txt)<BR>
+[ADR0002](/assets/adrs/ADR0002.txt)<BR>
+[ADR0003](/assets/adrs/ADR0004.txt)<BR>
+[ADR0004](/assets/adrs/ADR0004.txt)<BR>
+[ADR0005](/assets/adrs/ADR0005.txt)<BR>
+[ADR0006](/assets/adrs/ADR0006.txt)<BR>
 
 ### Functional Requirements
 - Acceptance Criteria
