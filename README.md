@@ -3,7 +3,7 @@ A **Solution Intent** is the repository for storing, managing, and communicating
 
 ## The Wright Stuff Team
 
-<div style="width:50%">
+<div style="width:500px">
 The *Wright Stuff* team consists of:
   - Umesh Vaswani
   - Douglas Hansknecht
