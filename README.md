@@ -72,7 +72,7 @@ Mentorship will be an offering from an NPO
 
 ### Architectural Decisions
 The following documents outline the architectural decisions made on this project:<BR>
-[ADR0001](/assets/adrs/ADR0001.txt)<BR>
+[ADR0001](/assets/adrs/ADR0001.md)<BR>
 [ADR0002](/assets/adrs/ADR0002.txt)<BR>
 [ADR0003](/assets/adrs/ADR0004.txt)<BR>
 [ADR0004](/assets/adrs/ADR0004.txt)<BR>
