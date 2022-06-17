@@ -1,6 +1,22 @@
 # Solution Intent - Diversity Cyber Council
 A **Solution Intent** is the repository for storing, managing, and communicating the knowledge of current and intended solution behavior. In short, the Solution Intent should describe *what* we wish to build.
 
+## The Wright Stuff Team
+
+The *Wright Stuff* team consists of:
+  - Umesh Vaswani
+  - Douglas Hansknecht
+  - Scott Norfolk
+  - Seth Westfall
+  - Deep Shah
+
+We are architects at NetJets, supporting the systems that keep our jets flying around the world.  
+
+<figure>
+  <img src="/assets/images/DiversityCyberCouncil-Wright.jpg">
+  <figcaption>Context Diagram</figcaption>
+</figure>
+
 ## Business Vision
 ### Basic Information
 Diversity Cyber Council is a 501c3 Non-Profit Organization (NPO) that serves under-represented demographics in the tech industry by facilitating education, training, and staffing opportunities to establish a sustainable and diverse talent pipeline to the workforce. Our vision is to enhance inclusion and representation in the tech industry through training, mentoring, networking, and visibility programs.
