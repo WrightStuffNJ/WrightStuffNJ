@@ -3,6 +3,7 @@ A **Solution Intent** is the repository for storing, managing, and communicating
 
 <img src="/assets/images/DiversityCyberCouncil-The Team.jpg">
 
+Please take a look at our [Video Presentation](https://www.youtube.com/watch?v=hxf-UHuGobI&t=1s) created for the O'Reilly Architectural Kata.
 ## Business Vision
 ### Basic Information
 Diversity Cyber Council is a 501c3 Non-Profit Organization (NPO) that serves under-represented demographics in the tech industry by facilitating education, training, and staffing opportunities to establish a sustainable and diverse talent pipeline to the workforce. Our vision is to enhance inclusion and representation in the tech industry through training, mentoring, networking, and visibility programs.
