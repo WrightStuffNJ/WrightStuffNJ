@@ -82,3 +82,13 @@ This section describes the plan for testing the Spotlight system. It will:
   - Test Scripts
   - Test Results and Evaluation
 
+
+### Glossary
+   - Administrator:
+   - Back End for Front End:
+   - Candidate:
+   - Graph Database: 
+   - IVR: 
+   - Microservices:
+   - NPO: Non-Profit Organization
+   - Provider:
