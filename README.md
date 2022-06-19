@@ -51,7 +51,7 @@ The Spotlight system is designed to support three types of users; Candidates, No
 
 ### High-Level Solution
 The system is designed at a high level to be built on cloud services. This reduces inital cost and reduces the maintenance effort while increasing the ability to handle peak demand. Behind the scenes microserices (called a Back End for Front End) and a workflow engine handle most of the work while a graph database handles persistent storage.
-Click on the following link to view the [Solution Design](/assets/pages/SolutionDesign.md)
+Click on the following link to view the [Solution Design](/SolutionDesign.md)
 
 ## Key Performance Indicators
 The following data points will be used to track the success of the system:
@@ -68,11 +68,11 @@ The following data points will be used to track the success of the system:
 - External 3rd party NPOs will need functional website and/or customer service phone line
 
 ## Data Analytics
-Data analytics will be used to enhance the system value for administrators, candidates, and  Non-Profits. This includes highlighting popular programs, providers and users. See the [Solution Design](/assets/pages/SolutionDesign.md) for more details.
+Data analytics will be used to enhance the system value for administrators, candidates, and  Non-Profits. This includes highlighting popular programs, providers and users. See the [Solution Design](/SolutionDesign.md) for more details.
 
 ## Solution Design
 While this **Solution Intent** is designed to show *what* we intend to build, the **Solution Design** will show the details on *how* we will build it.
-Click on the following link to view the [Solution Design](/assets/pages/SolutionDesign.md)
+Click on the following link to view the [Solution Design](/SolutionDesign.md)
 
 ## Acceptance Criteria
 ### Assumptions
