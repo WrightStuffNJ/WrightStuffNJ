@@ -112,15 +112,15 @@ The following documents outline the architectural decisions made on this project
   - The system must support users with no access to a smart phone or computer
     * **Source:** Analysis of non-profit benefit recipient demographics *
   - All web pages must meet Web Content Accessibility Guidelines WCAG 2.1
-    * **Source:** Company standards *
+    * **Source:** Company standards_
 - Security
   - All external communications between the system and clients must be encrypted
-    * **Source:** Company standards *
+    _**Source:** Company standards_
   - Only strong passwords will be allowed
-    * **Source:** Company standards *
+    _**Source:** Company standards_
 - Scalability
   - System must match capacity with demand elastically
-    * **Source:** Company standards *
+    _**Source:** Company standards_
 
 ### Architectual Characteristics
 The following chart details the architectural characteristics matched against the architectural styles under consideration:
