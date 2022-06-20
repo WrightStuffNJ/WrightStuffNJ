@@ -87,7 +87,7 @@ The following documents outline the architectural decisions made on this project
 [ADR0003 - Platform Analytics](/assets/adrs/ADR0004.md)<BR>
 [ADR0004 - System Workflow](/assets/adrs/ADR0004.md)<BR>
 [ADR0005 - Persistent Data Store](/assets/adrs/ADR0005.md)<BR>
-[ADR0006 - MicroServices Architecture](/assets/adrs/ADR0006.md)<BR>
+[ADR0006 - Architectural Approach](/assets/adrs/ADR0006.md)<BR>
 
 ### Functional Requirements
 - Acceptance Criteria
