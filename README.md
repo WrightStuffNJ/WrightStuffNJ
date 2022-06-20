@@ -118,9 +118,7 @@ The following documents outline the architectural decisions made on this project
     * **Source:** Company standards *
   - Only strong passwords will be allowed
     * **Source:** Company standards *
-- Perfomance
-  - Pages must load within 2 seconds
-    * **Source:** Company standards *
+- Scalability
   - System must match capacity with demand elastically
     * **Source:** Company standards *
 
