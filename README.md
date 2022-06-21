@@ -88,6 +88,9 @@ The following documents outline the architectural decisions made on this project
 [ADR0004 - System Workflow](/assets/adrs/ADR0004.md)<BR>
 [ADR0005 - Persistent Data Store](/assets/adrs/ADR0005.md)<BR>
 [ADR0006 - Architectural Approach](/assets/adrs/ADR0006.md)<BR>
+[ADR0007 - Mailings](/assets/adrs/ADR0007.md)<BR>
+[ADR0008 - Design Tool](/assets/adrs/ADR0008.md)<BR>
+[ADR0009 - Use Message Queuing](/assets/adrs/ADR0009.md)<BR>
 
 ### Functional Requirements
 - Acceptance Criteria
