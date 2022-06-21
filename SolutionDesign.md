@@ -51,6 +51,10 @@ Data analytics will be used to enhance the system value for participants in a nu
 The following diagram shows the operational flow between components.
 ![Sequence diagram](/assets/images/DiversityCyberCouncil-SequenceDiagrams.jpeg)
 
+## Deployment Diagram  
+The following diagram shows the deployment location of components.
+![Deployment diagram](/assets/images/DiversityCyberCouncil-DeploymentDiagram.jpeg)
+
 ## Test Plan
 ### Purpose
 This section describes the plan for testing the Spotlight system. It will:
