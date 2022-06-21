@@ -50,7 +50,6 @@ Data analytics will be used to enhance the system value for participants in a nu
 ## Sequence Diagram  
 The following diagram shows the operational flow between components.
 ![Sequence diagram](/assets/images/DiversityCyberCouncil-SequenceDiagrams.jpeg)
-![Sequence Diagram](/assets/images/DiversityCyberCouncil-SequenceDiagrams2.jpeg)
 
 ## Test Plan
 ### Purpose
