@@ -4,33 +4,53 @@ A **Solution Design** is the repository for storing, managing, and communicating
 
 ## Goal Design
 The following diagram details the solution design:
-![Solution Diagram](/assets/images/DiversityCyberCouncil-HighLevelSolutiondiagram.jpeg)
+<figure>
+  <img src="/assets/images/DiversityCyberCouncil-HighLevelSolutiondiagram.jpeg" width="800">
+  <figcaption>Solution Diagram</figcaption>
+</figure>
 
 ## Component Diagram
 The following diagram illustrates the solution at a component level.
-![Site Map diagram](/assets/images/DiversityCyberCouncil-ComponentDiagram.jpeg)
+<figure>
+  <img src="/assets/images/DiversityCyberCouncil-ComponentDiagram.jpeg" width="800">
+  <figcaption>Component Diagram</figcaption>
+</figure>
 
 ## User Interface Diagrams
 #### Site Map
 The following diagram illustrates the flow through web pages as users exercise the site.
-![Site Map diagram](/assets/images/DiversityCyberCouncil-SiteMap.jpeg)
+<figure>
+  <img src="/assets/images/DiversityCyberCouncil-SiteMap.jpeg" width="1000">
+  <figcaption>Site Map Diagram</figcaption>
+</figure>
 
 #### Wireframes
 The following diagram shows the simplified mockups of the web pages in the system. 
-![Wireframe diagram](/assets/images/DiversityCyberCouncil-Wireframes.jpeg)
+<figure>
+  <img src="/assets/images/DiversityCyberCouncil-Wireframes.jpeg" width="1000">
+  <figcaption>Wireframe Diagram</figcaption>
+</figure>
 
 #### Interactive Voice Response (IVR) Map
 The following diagram shows the flow through menus for users connecting to the interactive voice response system. 
-![IVR Map diagram](/assets/images/DiversityCyberCouncil-IVRMap.jpeg)
+<figure>
+  <img src="/assets/images/DiversityCyberCouncil-IVRMap.jpeg" width="1000">
+  <figcaption>IVR Map Diagram</figcaption>
+</figure>
 
 ## Workflow Diagrams
 The following diagrams show the workflow used when candidate and non-profit users register with the system. Note that these workflows are triggered by events raised by the Graph Db.
-![Workflow diagram](/assets/images/DiversityCyberCouncil-WorkflowDiagram.png)
+<figure>
+  <img src="/assets/images/DiversityCyberCouncil-WorkflowDiagram.jpeg" width="800">
+  <figcaption>Workflow Diagram</figcaption>
+</figure>
 
 ## Data Diagram - Graph Model
 The following diagram shows the nodes and connections that make up the Graph Db.
-![Graph data model diagram](/assets/images/DiversityCyberCouncil-GraphModel.jpeg)
-
+<figure>
+  <img src="/assets/images/DiversityCyberCouncil-GraphModel.jpeg" width="1000">
+  <figcaption>Graph Data Model Diagram</figcaption>
+</figure>
 
 ## Data Analytics
 Data analytics will be used to enhance the system value for participants in a number of ways, inclding:
@@ -49,11 +69,17 @@ Data analytics will be used to enhance the system value for participants in a nu
 
 ## Sequence Diagram  
 The following diagram shows the operational flow between components.
-![Sequence diagram](/assets/images/DiversityCyberCouncil-SequenceDiagrams.jpeg)
+<figure>
+  <img src="/assets/images/DiversityCyberCouncil-SequenceDiagrams.jpeg" width="1000">
+  <figcaption>Sequence Diagram</figcaption>
+</figure>
 
 ## Deployment Diagram  
 The following diagram shows the deployment location of components.
-![Deployment diagram](/assets/images/DiversityCyberCouncil-DeploymentDiagram.jpeg)
+<figure>
+  <img src="/assets/images/DiversityCyberCouncil-DeploymentDiagram.jpeg" width="1000">
+  <figcaption>Deployment Diagram</figcaption>
+</figure>
 
 ## Test Plan
 ### Purpose
