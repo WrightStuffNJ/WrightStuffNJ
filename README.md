@@ -128,7 +128,7 @@ The following documents outline the architectural decisions made on this project
 ### Architectual Characteristics
 The following chart details the architectural characteristics matched against the architectural styles under consideration:
 <figure>
-  <img src="/assets/images/DiversityCyberCouncil-Patterns.png" width="700">
+  <img src="/assets/images/DiversityCyberCouncil-Patterns.png" width="500">
   <figcaption>Architectural Characteristics Diagram</figcaption>
 </figure>
 
