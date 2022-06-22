@@ -45,7 +45,7 @@ The following functionality is not in scope for this effort:
 ### Goal Context
 The Spotlight system is designed to support three types of users; Candidates, Non-Profit Providers, and Administrators. Administrators and Non-Profit users will access the system via web pages, either mobile or desktop. Candidates can access the system via web pages as well. Additionally candidates without access to a browser can use a regular phone to call the Interactive Voice Response (IVR) system. It will allow them to retrieve lists of providers or offerings and to get contact information. The system has the ability to contact any user by email, or candidates via SMS.<BR>
 <figure>
-  <img src="/assets/images/DiversityCyberCouncil-ContextDiagram.jpeg" width="500">
+  <img src="/assets/images/DiversityCyberCouncil-ContextDiagram.jpeg" width="700">
   <figcaption>Context Diagram</figcaption>
 </figure>
 
