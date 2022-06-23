@@ -92,6 +92,7 @@ The following documents outline the architectural decisions made on this project
 [ADR0008 - Design Tool](/assets/adrs/ADR0008.md)<BR>
 [ADR0009 - Use Message Queuing](/assets/adrs/ADR0009.md)<BR>
 [ADR0010 - Separate Persistent Storage vs Analytics Storage](/assets/adrs/ADR0010.md)<BR>  
+[ADR0011 - Marketing Automation](/assets/adrs/Marketing automationv2.md)<BR>  
 
 ### Functional Requirements
 - Acceptance Criteria
