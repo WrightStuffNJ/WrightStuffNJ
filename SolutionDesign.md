@@ -53,7 +53,7 @@ The following diagram shows the nodes and connections that make up the Graph Db.
 </figure>
 
 ## Data Analytics
-Data analytics will be used to enhance the system value for participants in a number of ways, inclding:
+Data analytics will be used to enhance the system value for participants in a number of ways, including:
 
 - Administrators
    - Which offerings are most used
@@ -84,7 +84,7 @@ The following diagram shows the deployment location of components.
 ## Test Plan
 ### Purpose
 This section describes the plan for testing the Spotlight system. It will:
-  - Identify the test requirments at a high level
+  - Identify the test requirements at a high level
   - Describe the test strategies to be used
   - List the resources required
   - Detail the deliverables for the test phase
@@ -104,7 +104,7 @@ This section describes the plan for testing the Spotlight system. It will:
    - Test Manager: Provides oversight, direction and reporting
    - Test Designer: Creates test plan and implements test cases
    - System Tester: executes the tests
-### Test Deliverablers
+### Test Deliverables
   - Test Plan
   - Test Suite
   - Test Data Sets
@@ -113,11 +113,11 @@ This section describes the plan for testing the Spotlight system. It will:
 
 
 ### Glossary
-   - Administrator: An employee of the Diversity Counsil who manages administrative tasks such as approving new non-profit service providers.
-   - API Gateway: A proxy that sits between a client and a collection of back-end services that directs api calls to the proper service and returns the appropriate results.
-   - AWS Connect: Amazon Web Service Connect is an coud based IVR server provided by AWS for creating phone based customer contact systems.
-   - Back End for Front End: Back end for front end is a microservices pattern that breaks away from monolithic systems that utilize a single api for all clients and breaks them up into specific client type api's that provide just the services needed for the consuming client.
-   - Candidate: Users who wish to utilized the services provided by one of the Diversity Counsil's non-profit orgranizations.
+   - Administrator: An employee of the Diversity Council who manages administrative tasks such as approving new non-profit service providers.
+   - API Gateway: A proxy that sits between a client and a collection of back-end services that directs API calls to the proper service and returns the appropriate results.
+   - AWS Connect: Amazon Web Service Connect is a cloud based IVR server provided by AWS for creating phone based customer contact systems.
+   - Back End for Front End: Back end for front end is a microservices pattern that breaks away from monolithic systems that utilize a single API for all clients and breaks them up into specific client type API's that provide just the services needed for the consuming client.
+   - Candidate: Users who wish to utilize the services provided by one of the Diversity Council's non-profit organizations.
    - Cognito: Cognito lets you add user sign-up, sign-in, and access control to your web and mobile apps quickly and easily. It scales to millions of users and supports sign-in with social identity providers, such as Apple, Facebook, Google, and Amazon, and enterprise identity providers via SAML 2.0 and OpenID Connect.  
    - Content Delivery Network (CDN): A geographically distributed group of servers that work together to provide fast delivery of Internet content. A CDN provides faster access and delivery of content over the internet by placing the content closer to the users.
    - Email Service: A system that handles the generation and delivery on email messages to clients at scale.
@@ -125,11 +125,11 @@ This section describes the plan for testing the Spotlight system. It will:
    - Interactive Voice Recognition (IVR): is an automated telephony system that interacts with callers, gathers information and routes calls to the appropriate recipients and services.
    - IVR Server: Server based software system for providing Interactive Voice Recognition services, such as AWS Connect.
    - Microservices: An architecture design for building a distributed application using containers. Each service of the system is independent. 
-   - NPO: Non-Profit Organization that provides services or can apply to provides services through the Diversity Counsils website.
-   - Offerings: Services provided by the registered non-profits of the Diversity Counsil.
-   - Provider: A registered NPO that is providing services to the Diversity Counsil's clients.
+   - NPO: Non-Profit Organization that provides services or can apply to provides services through the Diversity Councils website.
+   - Offerings: Services provided by the registered non-profits of the Diversity Council.
+   - Provider: A registered NPO that is providing services to the Diversity Council's clients.
    - Serverless (Lambda) Functions: AWS Lambda is a serverless compute service that runs your code in response to events and automatically manages the underlying compute resources for you. 
    - Simple Notification Service (SNS): SNS is an AWS email service that allows management and delivery of email messages to clients at scale.
-   - Static Content: Static content is any file stored on a server that is the same every time it is delivered to users. The system utilizes AWS S3 (Simple Storage Service) for storing all static contect.
+   - Static Content: Static content is any file stored on a server that is the same every time it is delivered to users. The system utilizes AWS S3 (Simple Storage Service) for storing all static content.
    - Step Functions: A step function is a series of serverless lambda functions executed in a specific order to perform a given set of tasks.
    - Workflow Engine: A software application that manages business process. 
