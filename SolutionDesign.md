@@ -115,7 +115,7 @@ Amazon Cognito is a service used to manage authentication of users and includes 
 #### [Amazon Connect](https://aws.amazon.com/connect/?nc2=h_ql_prod_ce_con)
 Amazon Connect is a managed service used to provide a full omnichannel cloud contact center
 
-#### [Containerized Graph Database]()
+#### [Containerized Graph Database](#)
 This is a database that meetts the GraphQL specification. There are many options for this, but based on team experience we would recommend [Neo4j](https://neo4j.com/) based on it’s maturity as a product.
 
 #### [Marketo](https://www.marketo.com/)
