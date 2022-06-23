@@ -9,10 +9,10 @@ Automatic Campaign Management
 Accepted
 
 ## Context 
-Many potential candidates are interested in receiving communications associated to specific campaigns only. It is important to send relavant enails to imrove lead conversion.
+Many potential candidates are interested in receiving communications associated to specific campaigns only. It is important to send relavant emails to imrove lead conversion.
 
 ## Considered Options
-The marketing team can send bulk emails about all campaigns and communications to every Lead that visits the webisite. This may end up in sending irrelevant emails to many leads which can annoy them and block all incoming emails from Diversity Council.
+The marketing team can send bulk emails about all campaigns and communications to every lead that visits the website. This may end up in sending irrelevant emails to many leads which can annoy them and make them block all incoming emails from Diversity Council.
 
 ## Decision Drivers
 
