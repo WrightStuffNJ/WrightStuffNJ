@@ -15,7 +15,7 @@ Our goal is to establish a sustainable and diverse talent pipeline that extends 
 The Spotlight App Project is a sustained effort to amass a coalition of nonprofits in order to address specific needs within the communities we serve by leveraging a centralized platform as the base of operations to collaborate and make a collective impact.
 
 ### Tagline: Illuminate Possibilities
-The Divercity Cyber Council system is designed around illuminating possiblities. Candidates can see what's possible by browsing or searching offerings. Providers can see what other providers offer. Administrators have a wealth of reports available, providing them insight into what providers and offerings are getting the most use and what areas are underserved. Additionaly the system will show recommended offerings to candidates based on their location or past searches and engagement. Non-profits will receive insight into what offerings are hot and spotlight users. Administrators can see which offerings are often taken together, assisting them in creating roadmaps. All of which contributes to illuminating possiblities, not just for candidates but for non-profits as well.
+The Diversity Cyber Council system is designed around illuminating possibilities. Candidates can see what's possible by browsing or searching offerings. Providers can see what other providers offer. Administrators have a wealth of reports available, providing them insight into what providers and offerings are getting the most use and what areas are underserved. Additionally, the system will show recommended offerings to candidates based on their location or past searches and engagement. Non-profits will receive insight into what offerings are hot and spotlight users. Administrators can see which offerings are often taken together, assisting them in creating roadmaps. All of which contributes to illuminating possibilities, not just for candidates but for non-profits as well.
 
 ### Problem Statement
 1. The decentralization and lack of support between nonprofits create gaps of service and overall impact.
@@ -24,7 +24,7 @@ The Divercity Cyber Council system is designed around illuminating possiblities.
 ### Technology Solution Description
 *Nonprofit Networking Hub & Diverse Candidate Career Case Management Tool*
 
-The Spotlight Platform is a service based workflow and event driven solution designed to be deployable either on a cloud vendor or locally; the team recommends using a cloud vendor such as Amazon to reduce initial costs while speeding time to delivery.
+The Spotlight Platform is a service-based workflow and event driven solution designed to be deployable either on a cloud vendor or locally; the team recommends using a cloud vendor such as Amazon to reduce initial costs while speeding time to delivery.
 The solution supports multiple access methods, whether via voice or text, or through a mobile or desktop browser. The system utilizes a workflow engine to manage the onboarding processes which is supported by micro services as well as a graph database.
 
 ## Scope
@@ -43,14 +43,14 @@ The following functionality is not in scope for this effort:
 
 ## Solution Context
 ### Goal Context
-The Spotlight system is designed to support three types of users; Candidates, Non-Profit Providers, and Administrators. Administrators and Non-Profit users will access the system via web pages, either mobile or desktop. Candidates can access the system via web pages as well. Additionally candidates without access to a browser can use a regular phone to call the Interactive Voice Response (IVR) system. It will allow them to retrieve lists of providers or offerings and to get contact information. The system has the ability to contact any user by email, or candidates via SMS.<BR>
+The Spotlight system is designed to support three types of users: Candidates, Non-Profit Providers, and Administrators. Administrators and Non-Profit users will access the system via web pages, either mobile or desktop. Candidates can access the system via web pages as well. Additionally, candidates without access to a browser can use a regular phone to call the Interactive Voice Response (IVR) system. It will allow them to retrieve lists of providers or offerings and to get contact information. The system has the ability to contact any user by email, or candidates via SMS.<BR>
 <figure>
   <img src="/assets/images/DiversityCyberCouncil-ContextDiagram.jpeg" width="700">
   <figcaption>Context Diagram</figcaption>
 </figure>
 
 ### High-Level Solution
-The system is designed at a high level to be built on cloud services. This reduces inital cost and reduces maintenance effort while increasing the ability to handle peak demand. Behind the scenes microserices (called a Back End for Front End) and a workflow engine handle most of the work while a graph database handles persistent storage.
+The system is designed at a high level to be built on cloud services. This reduces initial cost and reduces maintenance effort while increasing the ability to handle peak demand. Behind the scenes microserices (called a Back End for Front End) and a workflow engine handle most of the work while a graph database handles persistent storage.
 Click on the following link to view the [Solution Design](/SolutionDesign.md)
 
 ## Key Performance Indicators
@@ -69,7 +69,7 @@ The following data points will be used to track the success of the system:
 - External 3rd party NPOs will need functional website and/or customer service phone line
 
 ## Data Analytics
-Data analytics will be used to enhance the system value for administrators, candidates, and  Non-Profits. This includes highlighting popular programs, providers and users. See the [Solution Design](/SolutionDesign.md) for more details.
+Data analytics will be used to enhance the system value for administrators, candidates, and Non-Profits. This includes highlighting popular programs, providers, and users. See the [Solution Design](/SolutionDesign.md) for more details.
 
 ## Solution Design
 While this **Solution Intent** is designed to show *what* we intend to build, the **Solution Design** will show the details on *how* we will build it.
@@ -126,10 +126,10 @@ The following documents outline the architectural decisions made on this project
   - System must match capacity with demand elastically
     _**Source:** Company standards_
 
-### Architectual Characteristics
+### Architectural Characteristics
 The following chart details the architectural characteristics matched against the architectural styles under consideration:
 <figure>
-  <img src="/assets/images/DiversityCyberCouncil-Patterns.png" width="500">
+  <img src="/assets/images/DiversityCyberCouncil-Patterns.png" width="400">
   <figcaption>Architectural Characteristics Diagram</figcaption>
 </figure>
 
