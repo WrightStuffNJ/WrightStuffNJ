@@ -153,23 +153,33 @@ This section describes the plan for testing the Spotlight system. It will:
 
 
 ### Glossary
-   - Administrator: An employee of the Diversity Council who manages administrative tasks such as approving new non-profit service providers.
-   - API Gateway: A proxy that sits between a client and a collection of back-end services that directs API calls to the proper service and returns the appropriate results.
-   - AWS Connect: Amazon Web Service Connect is a cloud based IVR server provided by AWS for creating phone based customer contact systems.
-   - Back End for Front End: Back end for front end is a microservices pattern that breaks away from monolithic systems that utilize a single API for all clients and breaks them up into specific client type API's that provide just the services needed for the consuming client.
-   - Candidate: Users who wish to utilize the services provided by one of the Diversity Council's non-profit organizations.
-   - Cognito: Cognito lets you add user sign-up, sign-in, and access control to your web and mobile apps quickly and easily. It scales to millions of users and supports sign-in with social identity providers, such as Apple, Facebook, Google, and Amazon, and enterprise identity providers via SAML 2.0 and OpenID Connect.  
-   - Content Delivery Network (CDN): A geographically distributed group of servers that work together to provide fast delivery of Internet content. A CDN provides faster access and delivery of content over the internet by placing the content closer to the users.
-   - Email Service: A system that handles the generation and delivery on email messages to clients at scale.
-   - Graph Database: Graph databases are purpose-built to store and navigate relationships. Relationships are first-class citizens in graph databases, and most of the value of graph databases is derived from these relationships. Graph databases use nodes to store data entities, and edges to store relationships between entities. An edge always has a start node, end node, type, and direction, and an edge can describe parent-child relationships, actions, ownership, and the like.
-   - Interactive Voice Recognition (IVR): is an automated telephony system that interacts with callers, gathers information and routes calls to the appropriate recipients and services.
-   - IVR Server: Server based software system for providing Interactive Voice Recognition services, such as AWS Connect.
-   - Microservices: An architecture design for building a distributed application using containers. Each service of the system is independent. 
-   - NPO: Non-Profit Organization that provides services or can apply to provides services through the Diversity Councils website.
-   - Offerings: Services provided by the registered non-profits of the Diversity Council.
-   - Provider: A registered NPO that is providing services to the Diversity Council's clients.
-   - Serverless (Lambda) Functions: AWS Lambda is a serverless compute service that runs your code in response to events and automatically manages the underlying compute resources for you. 
-   - Simple Notification Service (SNS): SNS is an AWS email service that allows management and delivery of email messages to clients at scale.
-   - Static Content: Static content is any file stored on a server that is the same every time it is delivered to users. The system utilizes AWS S3 (Simple Storage Service) for storing all static content.
-   - Step Functions: A step function is a series of serverless lambda functions executed in a specific order to perform a given set of tasks.
-   - Workflow Engine: A software application that manages business process. 
+#### Administrator
+  An employee of the Diversity Council who manages administrative tasks such as approving new non-profit service providers.
+#### Back End for Front End
+  Back end for front end is a microservices pattern that breaks away from monolithic systems that utilize a single API for all clients and breaks them up into specific client type API's that provide just the services needed for the consuming client.
+#### Candidate
+  Users who wish to utilize the services provided by one of the Diversity Council's non-profit organizations.
+#### Content Delivery Network (CDN)
+  A geographically distributed group of servers that work together to provide fast delivery of Internet content. A CDN provides faster access and delivery of content over the internet by placing the content closer to the users.
+#### Email Service
+  A system that handles the generation and delivery on email messages to clients at scale.
+#### Graph Database
+  Graph databases are purpose-built to store and navigate relationships. Relationships are first-class citizens in graph databases, and most of the value of graph databases is derived from these relationships. Graph databases use nodes to store data entities, and edges to store relationships between entities. An edge always has a start node, end node, type, and direction, and an edge can describe parent-child relationships, actions, ownership, and the like.
+#### Interactive Voice Recognition (IVR)
+  An automated telephony system that interacts with callers, gathers information and routes calls to the appropriate recipients and services.
+#### IVR Server
+  Server based software system for providing Interactive Voice Recognition services, such as AWS Connect.
+#### Microservices
+  An architecture design for building a distributed application using containers. Each service of the system is independent. 
+#### NPO
+  Non-Profit Organization that provides services or can apply to provides services through the Diversity Councils website.
+#### Offerings
+  Services provided by the registered non-profits of the Diversity Council.
+#### Provider
+  A registered NPO that is providing services to the Diversity Council's clients.
+#### Static Content
+  Static content is any file stored on a server that is the same every time it is delivered to users. The system utilizes AWS S3 (Simple Storage Service) for storing all static content.
+#### Step Functions
+  A step function is a series of serverless lambda functions executed in a specific order to perform a given set of tasks.
+#### Workflow Engine
+  A software application that manages business process. 
