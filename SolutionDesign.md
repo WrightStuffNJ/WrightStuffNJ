@@ -85,7 +85,7 @@ The following diagram shows the deployment location of components using AWS as a
 </figure>
 
 ### Glossary for deployment elements
-#### [AWS Simple Storage Service (S3)[(https://aws.amazon.com/s3/)
+#### [AWS Simple Storage Service (S3)](https://aws.amazon.com/s3/)
 Amazon S3 is an object storage service that high redundancy and availability of data. We will be using S3 to store the content for our Web Pages.
 
 #### [AWS Lambda](https://aws.amazon.com/lambda/)
