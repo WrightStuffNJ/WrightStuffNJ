@@ -79,11 +79,47 @@ The following diagram shows the operational flow between components.
 </figure>
 
 ## Deployment Diagram  
-The following diagram shows the deployment location of components.
+The following diagram shows the deployment location of components using AWS as a cloud provider. The model can easily be adapted to reflect other cloud providers (Microsoft Azure, Google Cloud Platform, etc.) if needed.
 <figure>
   <img src="/assets/images/DiversityCyberCouncil-DeploymentDiagram.jpeg" width="1000">
-  <figcaption>Deployment Diagram</figcaption>
 </figure>
+
+### Glossary for deployment elements
+#### [AWS Simple Storage Service (S3)[(https://aws.amazon.com/s3/)
+Amazon S3 is an object storage service that high redundancy and availability of data. We will be using S3 to store the content for our Web Pages.
+
+#### [AWS Lambda](https://aws.amazon.com/lambda/)
+AWS Lambdas are serverless compute services often referred to as Functions as a Service. We will be using lambdas in our solution to provide the logic for the APIs that will talk between the GraphDB datastore, and our web interface.
+
+#### [AWS Simple Workflow Service](https://docs.aws.amazon.com/swf/index.html)
+AWS Simple Workflow Service is managed service that will allow us to easily create workflows for onboarding new candidates and connecting them with mentors.
+
+#### [AWS Step Function](https://aws.amazon.com/step-functions/?step-functions.sort-by=item.additionalFields.postDateTime&step-functions.sort-order=desc)
+AWS Step Functions are a visual, low code service for creating workflows. We will be using step functions to coordinate and execute Lambda functions that will handle mentor assignment.
+
+#### [Amazon Simple Notification Service (SNS)](https://aws.amazon.com/sns/)
+Amazon SNS is a managed notification service that enables communications through various mediums. We will use SNS to send email to Candidates and Non-Profit Organizations.
+
+#### [AWS API Gateway](https://aws.amazon.com/api-gateway/)
+API Gateway is a fully managed service to maintain API endpoints for various types of protocols. Our solution will use API Gateway as the secured endpoint to communicate with and trigger lambda functions.
+
+#### [AWS Cloudfront](https://aws.amazon.com/cloudfront/)
+Amazon Cloudfront is content delivery network service that is used for optimizing delivery of web content globally no matter where the web server is running. We will be using Cloudfront to be the front end for our Single Page Application website for the Spotlight platform.
+
+#### [Amazon Elastic Kubernetes Service (EKS)](https://aws.amazon.com/eks/)
+Amazon EKS is a managed container service to run and scale Kubernetes applications in the cloud or on-premises.
+
+#### [Amazon Cognito](https://aws.amazon.com/cognito/)
+Amazon Cognito is a service to manage authentication of users and includes built-in support for social identity providers like Facebook, Google, Apple and Amazon.
+
+#### [Amazon Connect](https://aws.amazon.com/connect/?nc2=h_ql_prod_ce_con)
+Amazon Connect is a managed service to provide a full omnichannel cloud contact center
+
+#### Containerized Graph Database
+There are many options for this, but based on team experience we would recommend [Neo4j](https://neo4j.com/) based on it’s maturity as a product.
+
+#### [Marketo](https://www.marketo.com/)
+Marketo is a marketing automation platform used to simplify marketing communications with potential customers.
 
 ## Test Plan
 ### Purpose
