@@ -3,7 +3,11 @@
 A **Solution Design** is the repository for storing, managing, and communicating the knowledge of the intended solution's makeup in detail. In short, the Solution Design should describe *how* we will build the solution.
 
 ## Goal Design
-The following diagram details the solution design:
+The design at its heart is simple: Web users connect to the static content storage or workflow engine and are served up pages of content. The workflow engine is supported by the microservices (called a Back End for Front End) as well as a Graph database. Telephone users connect to the Interactive Voice Response server which pulls content from the static content storage. <BR>
+Layered on top of that is Cognito, which handles authentication and authorization.<BR>
+We added in an API Gateway to allow web pages to be responsive, active entities for an engaging experience. <BR>
+A content delivery network component rounds out the collection, ensuring performance at the edge remains strong.<BR>
+The following diagram details the high-level solution design:
 <figure>
   <img src="/assets/images/DiversityCyberCouncil-HighLevelSolutiondiagram.jpeg" width="800">
   <figcaption>Solution Diagram</figcaption>
