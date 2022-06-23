@@ -83,7 +83,7 @@ Mentorship will be an offering from an NPO
 ### Architectural Decision Records
 The following documents outline the architectural decisions made on this project:<BR>
 [ADR0001 - IVR Support](/assets/adrs/ADR0001.md)<BR>
-[ADR0002 - Overall platform](/assets/adrs/ADR0002.md)<BR>
+[ADR0002 - Infrastructure](/assets/adrs/ADR0002.md)<BR>
 [ADR0003 - Platform Analytics](/assets/adrs/ADR0003.md)<BR>
 [ADR0004 - System Workflow](/assets/adrs/ADR0004.md)<BR>
 [ADR0005 - Persistent Data Store](/assets/adrs/ADR0005.md)<BR>
