@@ -19,6 +19,13 @@ The following diagram illustrates the solution at a component level.
   <img src="/assets/images/DiversityCyberCouncil-ComponentDiagram.jpeg" width="800">
   <figcaption>Component Diagram</figcaption>
 </figure>
+  
+## Usecase Diagram
+The following diagram illustrates the Usecase.
+<figure>
+  <img src="assets/images/DiversityCyberCouncil - UseCase Diagram.png" width="800">
+  <figcaption>Usecase Diagram</figcaption>
+</figure>  
 
 ## User Interface Diagrams
 #### Site Map
